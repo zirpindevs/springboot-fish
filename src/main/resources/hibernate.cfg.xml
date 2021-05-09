@@ -7,9 +7,9 @@
 
         <!-- JDBC Database connection settings -->
         <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
-        <property name="connection.url">jdbc:mysql://localhost:3306/hibernatedb</property>
-        <property name="connection.username">root</property>
-        <property name="connection.password">admin</property>
+        <property name="connection.url">mysql://kvhe4w2wj9fni30q:b3t6lop441opdy8d@yvu4xahse0smimsc.chr7pe7iynqr.eu-west-1.rds.amazonaws.com:3306/vgoid79is9o7n40b</property>
+        <property name="connection.username">kvhe4w2wj9fni30q</property>
+        <property name="connection.password">b3t6lop441opdy8d</property>
         <!-- JDBC connection pool settings ... using built-in test pool -->
         <!--        <property name="connection.pool_size">1</property>-->
         <!-- Select our SQL dialect -->
